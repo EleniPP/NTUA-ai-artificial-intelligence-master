@@ -19,7 +19,3 @@ The project:
 * **client2.csv, taxis2.csv** : Randomly generated coordinates for the client and the taxis to test the validity of our implemented algorithm.
 * **best-route1.kml, best-route2.kml, best-route-advanced.kml**: The best routes for each taxi in kml form. The files were therefore uploaded into *MyMaps* to visualize the routes.
 
-The project was implemented by:
-
-Georgiou Dimitrios (jimmyg1997)
-Eleni Papadopoulou (EleniPP)
